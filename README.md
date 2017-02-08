@@ -2,6 +2,7 @@
 
 ## Goals
 
+* Get better at yoyo
 * Get all the tricks I know into one place
 * Arrange them by how they are connected
 * Add resources and links
@@ -168,11 +169,19 @@ Guillotine
 
 Snap Green Triangle
 
+Double Green Triangle
+
 Rejection
 
 Brent
 
 Follow
+
+Bucket Drop
+
+Trap Door
+
+Talon Grind Bind
 
 ---
 String Shot
