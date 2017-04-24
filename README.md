@@ -1,4 +1,4 @@
-#Yo Yo Trick List
+# Yo Yo Trick List
 
 ## Goals
 
@@ -10,7 +10,7 @@
 
 ## List
 
-Yo Yo Buying
+[Yo Yo Buying](http://cerealize.me/yoyo/yoyobuying)
 
 Sleeper
 
