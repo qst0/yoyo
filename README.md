@@ -12,11 +12,11 @@
 
 [Yo Yo Buying](http://cerealize.me/yoyo/yoyobuying)
 
-Sleeper
+Sleeper - Throw the yoyo and let it spin at the end of the string
 
-Front Style Bind
+Front Style Bind - Feed the tail back into the direction the yoyo is spinning
 
-Strong Throws
+Strong Throws - Make sure that the yoyo can spin for a nice long time. Watch out, since when you bind it will come back to your hand as fast as it is spinning, give the yoyo time to slow down after a strong throw
 
 Break Away
 
