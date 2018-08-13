@@ -1,5 +1,11 @@
 # Yo Yo Trick List
 
+## TODO
+
+* List all types of yoyo play and more info on them
+* Re-populate the list with new tricks since last solid look/update
+* More todo!
+
 ## Goals
 
 * Get better at yoyo
