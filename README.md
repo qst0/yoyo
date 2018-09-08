@@ -1,6 +1,10 @@
 # Yo Yo Trick List
 
-Be sure to check out [ilinx toys]https://www.ilinxtoys.com/ to get an amazing throw!
+Be sure to check out [ilinx toys](https://www.ilinxtoys.com/) to get an amazing throw!
+
+I just bought their first yoyo, [The Caffeine](https://www.ilinxtoys.com/shop-online/caffine)
+
+So I guess now, even though I don't drink coffee or anything like that- I'll need my dose daily!
 
 ## TODO
 
