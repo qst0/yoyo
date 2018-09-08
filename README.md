@@ -1,5 +1,7 @@
 # Yo Yo Trick List
 
+Be sure to check out [ilinx toys]https://www.ilinxtoys.com/ to get an amazing throw!
+
 ## TODO
 
 * List all types of yoyo play and more info on them
