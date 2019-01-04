@@ -1,10 +1,10 @@
 # Yo Yo Trick List
 
-Be sure to check out [ilinx toys](https://www.ilinxtoys.com/) to get an amazing throw!
+Now that you have a resource like [yoyotricks.com's Level Up](https://yoyotricks.com/level-up) out in the world I would suggest using it! There are lots of tricks you still might not find on [level-up](https://yoyotricks.com/level-up), another hidden gem is [Rethinkyoyo.com's tricks by difficulty](http://www.rethinkyoyo.com/tricks-by-difficulty.html)
 
-I just bought their first yoyo, [The Caffeine](https://www.ilinxtoys.com/shop-online/caffine)
-
-So I guess now, even though I don't drink coffee or anything like that- I'll need my dose daily!
+--
+Be sure to check out [ilinx toys](https://www.ilinxtoys.com/) to get an amazing throw.
+Their yoyo, [The Caffeine](https://www.ilinxtoys.com/shop-online/caffine), is super!
 
 ## TODO
 
