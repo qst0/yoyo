@@ -26,6 +26,10 @@ Their yoyo, [The Caffeine](https://www.ilinxtoys.com/shop-online/caffine), is su
 
 Sleeper - Throw the yoyo and let it spin at the end of the string
 
+Responsive Tug - Tug on the string of the responsive yoyo to make it return
+
+[Robin Hood](http://www.rethinkyoyo.com/home/robin-hood) - Make an 'L' with your throw hand and pull the string through between your thumb and string finger. Release the pulled back string and it will cause a tug brining back a responsive yoyo.
+
 Front Style Bind - Feed the tail back into the direction the yoyo is spinning
 
 Strong Throws - Make sure that the yoyo can spin for a nice long time. Watch out, since when you bind it will come back to your hand as fast as it is spinning, give the yoyo time to slow down after a strong throw
