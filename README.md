@@ -1,6 +1,6 @@
 # Yo Yo Trick List
 
-Now that you have a resource like [yoyotricks.com's Level Up](https://yoyotricks.com/level-up) out in the world I would suggest using it! There are lots of tricks you still might not find on [level-up](https://yoyotricks.com/level-up), another hidden gem is [Rethinkyoyo.com's tricks by difficulty](http://www.rethinkyoyo.com/tricks-by-difficulty.html)
+Now that you have a resource like [yoyotricks.com's Level Up](https://yoyotricks.com/level-up) out in the world I would suggest using it! There are lots of tricks you still might not find on [level-up](https://yoyotricks.com/level-up). Search for more on youtube and all across the web. 
 
 --
 Be sure to check out [ilinx toys](https://www.ilinxtoys.com/) to get an amazing throw.
@@ -225,3 +225,115 @@ Lotus Bloom
 Banana Turnover
 
 Rare Candy / Other Tessa Tricks
+
+## RETHINK YOYO BACKUP LIST
+
+Level 1
+
+Bottom Mount ●
+Brain Twister ●
+Breakaway ●
+Brother ●
+Double or Nothing ●
+Ferris Wheel ●
+Lindy-Loop ●
+Oliver Twist ●
+Robin Hood ●
+Sleeper ●
+Trapeze ●
+
+
+Level 2
+
+1 1/2 Mount ● ●
+Amuse ● ●
+Barrel Rolls ● ●
+Bind ● ●
+Buddha's Revenge ● ●
+Canadian Bacon ● ●
+Cold Fusion ● ●
+Cross-Arm Trapeze ● ●
+Eiffel Tower ● ●
+Eli Hops ● ●
+Grapes ● ●
+Green Triangle ● ●
+Houdini Drop ● ●
+Jedi Backflip ● ●
+Kwyjibo ● ●
+Matrix ● ●
+Quadruple or Nothing ● ●
+Ripcord ● ●
+Sewing Machine ● ●
+Skin the Gerbil ● ●
+Split Bottom Mount ● ●
+Split the Atom ● ●
+String Tension ● ●
+Tape Measure ● ●
+Trapeze Tower ● ●
+Triple or Nothing ● ●
+Upside-down Trapeze ● ●
+Zipper ● ●
+
+
+Level 3
+
+Boingy-Boing ● ● ●
+Brent Stole ● ● ●
+Eclipse ● ● ●
+Globble ● ● ●
+Hidemasa Hook ● ● ●
+Jade Whip ● ● ●
+Jason Lee Sling ● ● ●
+Lotus Bloom ● ● ●
+Mach Whip ● ● ●
+Ninja Vanish ● ● ●
+Pac-Man ● ● ●
+Perpetuum ● ● ●
+Plastic Whip ● ● ●
+Rebound ● ● ●
+Sou ● ● ●
+Skin the Hamster ● ● ●
+Sky Bind ● ● ●
+Slack Trapeze ● ● ●
+Suicide ● ● ●
+Suicide Bind ● ● ●
+Thimble ● ● ●
+Twirly-Bird ● ● ●
+Wrist Mount ● ● ●
+Wrist Whip ● ● ●
+
+
+Level 4
+
+Amorphous ● ● ● ●
+Babel ● ● ● ●
+Banana Turnover ● ● ● ●
+Bermuda ● ● ● ●
+Breath ● ● ● ●
+Bunny ● ● ● ●
+Chupacabra ● ● ● ●
+Colossus of Rhodes ● ● ● ●
+Croatoan ● ● ● ●
+Cyborg ● ● ● ●
+e57 ● ● ● ●
+Experimental Laziness ● ● ● ●
+Follow ● ● ● ●
+Golgotha ● ● ● ●
+Grandma Kimmitt Sandwich ● ● ● ●
+Headlock ● ● ● ●
+Idiom ● ● ● ●
+Imaginary Axis ● ● ● ●
+Impatient Perfectionism ● ● ● ●
+Meshillemoth ● ● ● ●
+Multifarious Whip ● ● ● ●
+Peng-Pong ● ● ● ●
+Peril ● ● ● ●
+Presque Vu ● ● ● ●
+Pump House ● ● ● ●
+Punchliner ● ● ● ●
+Red Halo ● ● ● ●
+Theorem ● ● ● ●
+Vashta Nerada ● ● ● ●
+Whim ● ● ● ●
+
+
