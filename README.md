@@ -394,7 +394,7 @@ Colossus of Rhodes ● ● ● ●
 
 Croatoan ● ● ● ●
 
-Cyborg ● ● ● ●
+[Cyborg ● ● ● ●](https://www.youtube.com/watch?v=ZN8svCxFKY0)
 
 e57 ● ● ● ●
 
